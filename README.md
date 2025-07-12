@@ -1,5 +1,5 @@
 # eShells Toy Currency
-eShells is an open source, **toy** currency that was made to demonstrate [WebDB](https://github.com/SeafoodStudios/webdb)'s capabillities.
+eShells is an open source, **toy** currency that was made to demonstrate [WebDB](https://github.com/SeafoodStudios/WebDB)'s capabillities.
 
 eShells has a web based wallet, although you must use HTTPS and to never use real usernames or password. This is because we want to prevent any data interceptions. Vercel logs the usernames and passwords, which further enforces why you should never use your real data on this platform.
 The wallet is here: [https://eshells.seafoodstudios.com/](https://eshells.seafoodstudios.com/)
